@@ -1,0 +1,11 @@
+### 🧾 requirements.txt
+
+If not already exported, you can create it using:
+```pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+jupyter
